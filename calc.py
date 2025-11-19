@@ -5,11 +5,11 @@ SMALL_FONT_STYLE = ("Arial", 16)
 DIGITS_FONT_STYLE = ("Arial", 24, "bold")
 DEFAULT_FONT_STYLE = ("Arial", 20)
 
-OFF_WHITE = "#F8FAFF"
-WHITE = "#FFFFFF"
-LIGHT_BLUE = "#CCEDFF"
-LIGHT_GRAY = "#F5F5F5"
-LABEL_COLOR = "#25265E"
+OFF_WHITE = "#E6D5F5"  # Light purple for operator buttons
+WHITE = "#F0E6FA"  # Very light purple for digit buttons
+LIGHT_BLUE = "#9B6FD9"  # Medium purple for equals button
+LIGHT_GRAY = "#E0D4F0"  # Light purple for display frame
+LABEL_COLOR = "#4A148C"  # Dark purple for text
 
 
 class Calculator:
